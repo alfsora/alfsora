@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anastasia
 - 👀 I’m a Graphic Designer / UI Designer
 - 🌱 I’m currently learning css and html to support my knowledge for UI design
-- 💞️ I’m looking work in Japan as UI Designer
+- 💞️ I’m looking for work in Japan as Graphic Designer / UI Designer
 - 📫 Kindly reach me at @anastasiahanikusumawardani@gmail.com
 
 <!---
